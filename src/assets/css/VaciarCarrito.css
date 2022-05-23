@@ -1,0 +1,18 @@
+.VaciarCarrito{
+    position: absolute;
+    bottom: 70px;
+    right: 160px;
+}
+
+.Vaciar-btn{
+    cursor: pointer;
+    padding: 10px;
+    background: rgb(182, 182, 182);
+    border: solid 2px black;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px gray;
+}
+
+.Vaciar-btn:hover{
+    background: rgb(216, 216, 216);
+}

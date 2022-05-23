@@ -1,0 +1,25 @@
+.EnviarCarrito{
+    position: absolute;
+    bottom: 70px;
+    right: 40px;
+}
+
+.Enviar-btn{
+    cursor: pointer;
+    padding: 10px;
+    background: rgb(255, 115, 0);
+    border: solid 2px black;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px gray;
+}
+
+
+.Enviar-btn:hover{
+    background: rgb(255, 179, 118);
+}
+
+
+.EnviarItem{
+    display: flex;
+    flex-direction: row;
+}
